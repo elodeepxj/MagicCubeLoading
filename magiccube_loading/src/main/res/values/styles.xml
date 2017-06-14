@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+ <style name="round_conner">
+     <!--<item name="android:topRightRadius">150dp</item>-->
+     <!--<item name="android:bottomLeftRadius">150dp</item>-->
+     <!--<item name="android:topLeftRadius">150dp</item>-->
+     <!--<item name="android:bottomRightRadius">150dp</item>-->
+     <item name="android:radius">360dp</item>
+ </style>
+
+</resources>
